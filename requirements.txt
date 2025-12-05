@@ -1,0 +1,7 @@
+numpy
+scipy
+pandas
+chardet
+numba
+matplotlib
+pytest
