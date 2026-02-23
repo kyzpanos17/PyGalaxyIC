@@ -1,7 +1,7 @@
 numpy==2.2.6
 scipy==1.15.3
 pandas==2.3.3
-chardet==5.2.0
+chardet==6.0.0.post1
 numba==0.62.1
 matplotlib==3.10.7
 pytest==9.0.1
